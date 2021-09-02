@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 * 🇨🇦 University of Waterloo Civil Engineering 2023 -> self-taught dev
 * 👨‍💻 Developer on Blueprint for social-diversity-for-children, a non-profit organization
 * 🖥 Previous interned at HomeX
+* ⚡ Fun fact: I wrote my first line of code in January 2021!
