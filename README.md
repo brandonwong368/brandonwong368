@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 * 👨‍💻 Software Developer on [Blueprint](https://uwblueprint.org/) for [social-diversity-for-children](https://github.com/uwblueprint/social-diversity-for-children), a non-profit organization
 * 🖥 Previously interned at HomeX
 * ⚡ Fun fact: I wrote my first line of code in January 2021!
-* 📫 Check out my my [LinkedIn](https://www.linkedin.com/in/bwong368/)
+* 📫 Check out my [LinkedIn](https://www.linkedin.com/in/bwong368/)
