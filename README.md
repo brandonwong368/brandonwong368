@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * 🇨🇦 University of Waterloo Civil Engineering 2023 (self-taught dev)
-* 👨‍💻 Developer on Blueprint for social-diversity-for-children, a non-profit organization
+* 👨‍💻 Software Developer on [Blueprint](https://uwblueprint.org/) for [social-diversity-for-children](https://github.com/uwblueprint/social-diversity-for-children), a non-profit organization
 * 🖥 Previously interned at HomeX
 * ⚡ Fun fact: I wrote my first line of code in January 2021!
+* 📫 Check out my my [LinkedIn](https://www.linkedin.com/in/bwong368/)
