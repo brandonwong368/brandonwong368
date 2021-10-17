@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 🇨🇦 University of Waterloo Civil Engineering 2023 (self-taught dev)
+* 🇨🇦 University of Waterloo Civil Engineering 2023
 * 👨‍💻 Software Developer on [Blueprint](https://uwblueprint.org/) for [social-diversity-for-children](https://github.com/uwblueprint/social-diversity-for-children), a non-profit organization
 * 🖥 Previously interned at [HomeX](https://homex.com/)
 * ⚡ Fun fact: I first learned how to code in Fall 2020!
