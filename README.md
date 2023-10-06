@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * 🇨🇦 University of Waterloo Civil Engineering 2023
-* 👨‍💻 Software Developer on [Blueprint](https://uwblueprint.org/) for [social-diversity-for-children](https://github.com/uwblueprint/social-diversity-for-children), a non-profit organization
+* 👨‍💻 Software Developer on [Blueprint](https://uwblueprint.org/) for [social-diversity-for-children](https://www.socialdiversity.org/), a non-profit organization. Me and my team created this app from scratch and it now supports hundreds of users!
 * 🖥 Previously interned at [Amazon](https://www.amazon.ca/), [reebee](https://www.reebee.com/), and [HomeX](https://homex.com/)
-* ⚡ Fun fact: I was a member of U24 Team Canada Dragonboat in 2019!
+* ⚡ Fun fact: I was a member of U24 Team Canada Dragonboat in 2019 and 2023!
 * 📫 Check out my [LinkedIn](https://www.linkedin.com/in/bwong368/)
